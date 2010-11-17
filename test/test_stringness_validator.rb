@@ -1,7 +1,8 @@
 require 'helper'
+require File.dirname(__FILE__) + '../lib/stringness_validator.rb'
 
 class TestStringnessValidator < Test::Unit::TestCase
-  should "probably rename this file and start testing for real" do
-    flunk "hey buddy, you should probably rename this file and start testing for real"
+  def test_stringness
+    raise "Maybe I'll write a test some day..."
   end
 end
