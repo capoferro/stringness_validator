@@ -24,6 +24,7 @@ Gem::Specification.new do |s|
     "README.rdoc",
     "Rakefile",
     "lib/stringness_validator.rb",
+    "stringness_validator.gemspec",
     "test/helper.rb",
     "test/test_stringness_validator.rb"
   ]
