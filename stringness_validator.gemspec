@@ -5,7 +5,7 @@
 
 Gem::Specification.new do |s|
   s.name = %q{stringness_validator}
-  s.version = ""
+  s.version = "1.0.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Josiah Kiehl"]
@@ -23,6 +23,7 @@ Gem::Specification.new do |s|
     "LICENSE.txt",
     "README.rdoc",
     "Rakefile",
+    "VERSION",
     "lib/stringness_validator.rb",
     "stringness_validator.gemspec",
     "test/helper.rb",
